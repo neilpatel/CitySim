@@ -54,8 +54,8 @@ ___
 ![Seed 0 Screenshot](https://github.com/neilpatel/CitySim/blob/master/img/Seed%200.PNG)
 
 + Execution of: `ruby CitySim.rb 1`
-![Seed 0 Screenshot](https://github.com/neilpatel/CitySim/blob/master/img/Seed%201.PNG)
+![Seed 1 Screenshot](https://github.com/neilpatel/CitySim/blob/master/img/Seed%201.PNG)
 
 + Execution of: `ruby CitySim.rb 100'
-![Seed 0 Screenshot](https://github.com/neilpatel/CitySim/blob/master/img/Seed%20100.PNG)
+![Seed 100 Screenshot](https://github.com/neilpatel/CitySim/blob/master/img/Seed%20100.PNG)
 ___
