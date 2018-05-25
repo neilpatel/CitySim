@@ -1,6 +1,6 @@
 # CitySim
 
-The purpose of this project was to get familiar with writing software and unit tests using Minitest in Ruby.
+The purpose of this project was to get familiar with writing software and unit tests using Minitest in Ruby 2.5.0.
 
 ___
 ## Necessary Files
@@ -46,4 +46,7 @@ ___
 + FUN-CLASSES: At the conclusion of each Driver's simulation, the simulator will note how many classes the Driver attended.  The driver starts with one class and the number of classes *doubles* each time they are at the Cathedral (1, 2, 4, etc.).  This shall include if the Cathedral is the starting location.  The program shall print this out using the correct singular or plural form (e.g. "1 class", "2 classes", "0 classes") and end with an exclamation point ("!").
 + FUN-END. The simulation shall end for a specific Driver once that Driver is leaving towards Monroeville or Downtown.  If there are more Drivers, then the next Dr
 
-+ Note: Given a particular seed, different exections may occur in diferent programs; however, for the same program, the same seed should always produce the *exact* same results. 
++ **Note:** Given a particular seed, different exections may occur in diferent programs; however, for the same program, the same seed should always produce the *exact* same results. 
+
+___
+## Sample Output
