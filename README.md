@@ -50,3 +50,13 @@ ___
 
 ___
 ## Sample Output
++ Execution of: `ruby CitySim.rb 0`
+![Seed 0 Screenshot](https://github.com/neilpatel/CitySim/blob/master/img/Seed%200.PNG)
+
++ Execution of: `ruby CitySim.rb 1`
+
+![Seed 0 Screenshot](https://github.com/neilpatel/CitySim/blob/master/img/Seed%201.PNG)
+
++ Execution of: `ruby CitySim.rb 100'
+![Seed 0 Screenshot](https://github.com/neilpatel/CitySim/blob/master/img/Seed%20100.PNG)
+___
