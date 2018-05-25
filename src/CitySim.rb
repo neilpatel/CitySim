@@ -1,9 +1,9 @@
 # Neil Patel
 # CS 1632; Software Quality Assurance
 # Professor Bill Laboon
-# Deliverable 2; CitySim9006
+# Deliverable 2; CitySim
 
-#Implementation of Class CitySim9006 Main
+#Implementation of Class CitySim Main
 
 require_relative 'Driver'
 
